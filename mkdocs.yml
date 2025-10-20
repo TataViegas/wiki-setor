@@ -1,0 +1,9 @@
+site_name: Wiki do Setor
+theme:
+  name: material
+
+nav:
+  - Início: index.md
+  - Processos: processos.md
+  - Padrões: padroes.md
+  - Ferramentas: ferramentas.md
